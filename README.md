@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Mihir2423
+# 👋 Hi, I’m Mihir2423
 - 👀 I’m interested in artificial intelligence and web designing.
 - 🌱 I’m currently learning dynamic programming.
 - 💞️ I’m looking to collaborate on ...
