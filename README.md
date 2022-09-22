@@ -1,4 +1,4 @@
-![MasterHead](https://github.com/advaith-unnikrishnan/advaith-unnikrishnan/raw/master/media/1.png)
+![MasterHead](https://github.com/Mihir2423/Mihir2423/blob/main/media/banner.png)
 <h1 align="center">Hi 👋, I'm Mihir Aman Raj</h1>
 <h3 align="center">I am FrontEnd Developer. I am currently learning ReactJS. I have a great interest in software development and AI</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/84/88/9a/84889ad9e996c2c74ffdf33e73378c66.gif" />
