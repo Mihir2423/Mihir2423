@@ -7,8 +7,6 @@
 
 - 🔭 I’m currently working on **Nasa Hackathon Project**
 
-- 🌱 I’m currently learning **DSA**
-
 - 💬 Ask me about **react, gsap**
 
 - 📫 How to reach me **mihirraj444@gmail.com**
