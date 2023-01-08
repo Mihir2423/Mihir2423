@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mihir2423&label=Profile%20views&color=0e75b6&style=flat" alt="mihir2423" /> </p>
 
-- 🔭 I’m currently working on **Nasa Hackathon Project**
+- 🔭 I’m currently at a **Startup Company**.Therefore, not active with this account for few days. 
 
 - 💬 Ask me about **react, gsap**
 
