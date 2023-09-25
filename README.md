@@ -26,7 +26,7 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Mihir2423&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
+### ✍️ Random Dev Quote 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 [![An image of @mihir2423's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mihir2423)](https://holopin.io/@mihir2423)
