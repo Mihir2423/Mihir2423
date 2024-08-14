@@ -5,7 +5,7 @@
 <h1 align="center">👋 Hello, I'm Mihir Aman Raj</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9400D3&center=true&vCenter=true&width=435&lines=Computer+Engineer;Full-Stack+Developer;Cloud+Engineer;AI+Engineer;YouTuber;Streamer;Editor;" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9400D3&center=true&vCenter=true&width=435&lines=Computer+Engineer;Full-Stack+Developer;DSA+Enthusiast;Night+Owl;Coder;" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -53,7 +53,9 @@
 
 <h2 align="center">🚀 About Me</h2>
 
-As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud Computing, Artificial Intelligence/Machine Learning, and high-quality streaming technologies. With a proven track record of driving innovation, I am committed to leveraging advanced AI solutions to boost productivity and foster creative problem-solving in technology. My passion for pushing the boundaries of modern technology equips me to deliver exceptional results in complex and dynamic environments.
+Experienced Full Stack Developer with a strong command of the MERN stack (MongoDB, Express.js, React, Node.js) and Next.js for building robust web applications. Proficient in enhancing user experiences through advanced animation techniques using Framer Motion and GSAP. Skilled in efficient database management with Prisma and Drizzle ORMs, coupled with expertise in MySQL, PostgreSQL, and SQLite. Adept at crafting scalable, high-performance solutions that seamlessly integrate frontend aesthetics with backend functionality. Committed to staying at the forefront of web development technologies to deliver innovative and user-centric applications.
+
+
 
 <h3 align="center">Git Stats</h3>
 
