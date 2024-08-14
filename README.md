@@ -1,37 +1,214 @@
-<h1 align="center">Hi 👋, I'm Mihir Aman Raj</h1>
-<h3 align="center">I am MERN Stack Developer. I have a great interest in software development and AI</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/84/88/9a/84889ad9e996c2c74ffdf33e73378c66.gif" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=header" width="100%" alt="Header" />
 
----
-[![](https://visitcount.itsvg.in/api?id=Mihir2423&icon=0&color=0)](https://visitcount.itsvg.in)
+<div align="center">
 
-- 🔭 I’m currently working on a **FREELANCE PROJECT FOR A STARTUP** 
+<h1 align="center">👋 Hello, I'm Mihir Aman Raj</h1>
 
-- 💬 Ask me about **React, NextJs, Gsap**
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9400D3&center=true&vCenter=true&width=435&lines=Computer+Engineer;Full-Stack+Developer;Cloud+Engineer;AI+Engineer;YouTuber;Streamer;Editor;" alt="Typing SVG" />
+</p>
 
-- 📫 How to reach me **mihirraj444@gmail.com**
+<p align="center">
+  SDE Intern | Full Stack Developer | DSA Enthusiast
+</p>
 
-- ⚡ Fun fact **The Mona Lisa has no eyebrows.**
+<div align="center">
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://mihir-dev.vercel.app" target="_blank">
+        <img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=sireaddotcv&subtitle=Mihir+Aman+Raj&size=square" alt="Mihir" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.instagram.com/mihir_aman_raj" target="_blank">
+        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.instagram.com%2Fmihir_aman_raj%2F&subtitle=@mihir_aman_raj&size=square" alt="mihir_aman_raj" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.linkedin.com/in/mihir-aman-raj-349732233/" target="_blank">
+        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fmihir-aman-raj-349732233a%2F&subtitle=@Mihir+Aman+Raj&size=square" alt="Mihir Aman Raj" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://x.com/mihir__dev" target="_blank">
+        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fx.com%2Fmihir__dev&subtitle=@Mihir_Dev&size=square" alt="mihir__dev" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Mihir2423" target="_blank">
+        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fgithub.com%2FMihir2423&subtitle=%2FMihir2423j&size=square" alt="Mihir2423" />
+      </a>
+    </td>
+  </tr>
+</table>
 
+<br>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://instagram.com/mihir_aman_raj) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mihir-aman-raj-349732233/) 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Mihir2423&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" width="200" height="35" />
+</p>
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Apollo-GraphQL](https://img.shields.io/badge/-ApolloGraphQL-311C87?style=flat&logo=apollo-graphql) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=flat&logo=chart.js&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=flat&logo=expo&logoColor=#D04A37) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=flat&logo=material-ui&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens) ![Green Sock](https://img.shields.io/badge/green%20sock-88CE02?style=flat&logo=greensock&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=flat&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat&logo=redux&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=flat&logo=socket.io&badgeColor=010101) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=flat&logo=styled-components&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white)
-# 📊 GitHub Stats:
-![Mihir's Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mihir2423&theme=radical)
+<h2 align="center">🚀 About Me</h2>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Mihir2423&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud Computing, Artificial Intelligence/Machine Learning, and high-quality streaming technologies. With a proven track record of driving innovation, I am committed to leveraging advanced AI solutions to boost productivity and foster creative problem-solving in technology. My passion for pushing the boundaries of modern technology equips me to deliver exceptional results in complex and dynamic environments.
 
-### ✍️ Random Dev Quote 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<h3 align="center">Git Stats</h3>
 
-[![An image of @mihir2423's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mihir2423)](https://holopin.io/@mihir2423)
+<div align="center">
+ 
+  <img src="https://streak-stats.demolab.com/?user=Mihir2423&theme=highcontrast&hide_border=true" alt="GitHub Streak" />
+  <br>
+   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mihir2423&custom_title=Mihir's%20GitHub%20Activity%20Graph&hide_border=true&border_radius=15&bg_color=000000&color=FFD700&line=1E90FF&point=1E90FF&area_color=000000&title_color=FFD700&area=true" alt="GitHub Activity Graph" />
+<br>
+<div align="center">
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mihir2423&hide=html&hide_border=true&layout=compact&langs_count=8&theme=highcontrast" alt="Top Languages" />
+    </td>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mihir2423&theme=highcontrast&hide_border=true" alt="Repos Per Language" />
+    </td>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mihir2423&theme=highcontrast&hide_border=true" alt="Most Commit Language" />
+    </td>
+  </tr>
+</table>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Mihir2423&limit=5&theme=dark&combine_all_yearly_contributions=true)
+</div>
 
+<img src="https://github-readme-stats.vercel.app/api?username=Mihir2423&hide_border=true&border_radius=15&show_icons=true&theme=highcontrast" alt="Mihir's GitHub stats" />
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mihir2423&theme=highcontrast&hide_border=true" alt="Profile Details" />
+
+<details>
+  <summary style="font-size: 1.17em; font-weight: bold;">Git Stats Summary</summary>
+  <img src="https://myreadme.vercel.app/api/embed/Mihir2423?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="Mihir2423's GitHub Stats" />
+</details>
+
+<br>
+
+### Mihir2423/README.md activity
+![Alt](https://repobeats.axiom.co/api/embed/520c04b7ccae8190eb30e1b7ab1e90a02762e7d0.svg "Repobeats analytics image")
+
+<br>
+<details>
+  <summary style="font-size: 1.17em; font-weight: bold;">🏆 GitHub Profile Trophy</summary>
+  <br>
+  <img src="https://github-profile-trophy.vercel.app/?username=Mihir2423&no-frame=true&theme=darkhub" alt="GitHub Profile Trophy" />
+</details>
+
+</div>
+
+<div align="center">
+<h3 align="center">Leetcode Stats</h3>
+<p align="center">
+  <img align="center" src="https://leetcard.jacoblin.cool/Mihir2423?border=0&radius=20" alt="Leetcode Stats" />
+</p>
+
+<table>
+  <tr>
+    <th align="center">
+      Dev Profile
+    </th>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://app.daily.dev/venom10"><img src="https://api.daily.dev/devcards/v2/cqeSas7wyrNpbLjlgcF6o.png?r=3sb" width="356" alt="Mihir's Dev Card" /></a>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+<h2 align="center">🛠️ Tech Stack</h2>
+
+<h3 align="center">Web Development</h3>
+
+<div align="center">
+<table>
+  <thead>
+    <tr>
+      <th colspan="8" align="center">Frontend</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">
+        <a href="https://nextjs.org/">
+          <img src="https://skillicons.dev/icons?i=nextjs" width="50" height="50" alt="Next.js" />
+        </a>
+        <br>Next.js
+      </td>
+      <td align="center">
+        <a href="https://tailwindcss.com/">
+          <img src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg" width="50" height="50" alt="Tailwind CSS" />
+        </a>
+        <br>Tailwind CSS
+      </td>
+      <td align="center">
+        <a href="https://reactjs.org/">
+          <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="50" height="50" />
+        </a>
+        <br>React
+      </td>
+      <td align="center">
+        <a href="https://www.typescriptlang.org/">
+          <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="50" height="50" />
+        </a>
+        <br>TypeScript
+      </td>
+      <td align="center">
+        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+          <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="50" height="50" />
+        </a>
+        <br>JavaScript
+      </td>
+      <td align="center">
+        <a href="https://jquery.com/">
+          <img src="https://skillicons.dev/icons?i=jquery" width="50" height="50" alt="jQuery" />
+        </a>
+        <br>jQuery
+      </td>
+      <td align="center">
+        <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+          <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" width="50" height="50" alt="HTML" />
+        </a>
+        <br>HTML
+      </td>
+      <td align="center">
+        <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+          <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" width="50" height="50" alt="CSS" />
+        </a>
+        <br>CSS
+      </td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+<!-- Rest of the tables follow the same pattern... -->
+
+<h2 align="center">📫 Let's Connect!</h2>
+
+<table align="center">
+  <tr>
+    <td colspan="3" align="center">
+      <a href="mailto:mihirraj444@gmail.com" target="_blank">
+        <img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=sigmail&subtitle=mihirraj444@gmail.com&size=square" alt="Mihir Aman Raj" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siwhatsapp&subtitle=India-6204807606&size=square" target="_blank">
+        <img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siwhatsapp&subtitle=India-6204807606&size=square" alt="India-+91-620-4807-606" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%" alt="Footer" />
