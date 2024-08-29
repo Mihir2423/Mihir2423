@@ -39,7 +39,7 @@
     </td>
     <td align="center">
       <a href="https://github.com/Mihir2423" target="_blank">
-        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fgithub.com%2FMihir2423&subtitle=%2FMihir2423j&size=square" alt="Mihir2423" />
+        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fgithub.com%2FMihir2423&subtitle=%2FMihir2423&size=square" alt="Mihir2423" />
       </a>
     </td>
   </tr>
