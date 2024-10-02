@@ -94,7 +94,7 @@ Experienced Full Stack Developer with a strong command of the MERN stack (MongoD
 <br>
 
 ### Mihir2423/README.md activity
-![Alt](https://repobeats.axiom.co/api/embed/520c04b7ccae8190eb30e1b7ab1e90a02762e7d0.svg "Repobeats analytics image")
+![Alt](https://repobeats.axiom.co/api/embed/959496f9f8bb7f17c62ed94061e133a063ecca5b.svg "Repobeats analytics image")
 
 <br>
 <details>
