@@ -131,66 +131,170 @@ Experienced Full Stack Developer with a strong command of the MERN stack (MongoD
 <h3 align="center">Web Development</h3>
 
 <div align="center">
-<table>
-  <thead>
-    <tr>
-      <th colspan="8" align="center">Frontend</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="center">
-        <a href="https://nextjs.org/">
-          <img src="https://skillicons.dev/icons?i=nextjs" width="50" height="50" alt="Next.js" />
-        </a>
-        <br>Next.js
-      </td>
-      <td align="center">
-        <a href="https://tailwindcss.com/">
-          <img src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg" width="50" height="50" alt="Tailwind CSS" />
-        </a>
-        <br>Tailwind CSS
-      </td>
-      <td align="center">
-        <a href="https://reactjs.org/">
-          <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="50" height="50" />
-        </a>
-        <br>React
-      </td>
-      <td align="center">
-        <a href="https://www.typescriptlang.org/">
-          <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="50" height="50" />
-        </a>
-        <br>TypeScript
-      </td>
-      <td align="center">
-        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-          <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="50" height="50" />
-        </a>
-        <br>JavaScript
-      </td>
-      <td align="center">
-        <a href="https://jquery.com/">
-          <img src="https://skillicons.dev/icons?i=jquery" width="50" height="50" alt="jQuery" />
-        </a>
-        <br>jQuery
-      </td>
-      <td align="center">
-        <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-          <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" width="50" height="50" alt="HTML" />
-        </a>
-        <br>HTML
-      </td>
-      <td align="center">
-        <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-          <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" width="50" height="50" alt="CSS" />
-        </a>
-        <br>CSS
-      </td>
-    </tr>
-  </tbody>
-</table>
+  <table>
+    <thead>
+      <tr>
+        <th colspan="8" align="center">Frontend</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td align="center">
+          <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+            <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" width="50" height="50" alt="HTML" />
+          </a>
+          <br>HTML
+        </td>
+        <td align="center">
+          <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+            <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" width="50" height="50" alt="CSS" />
+          </a>
+          <br>CSS
+        </td>
+        <td align="center">
+          <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+            <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="50" height="50" />
+          </a>
+          <br>JavaScript
+        </td>
+        <td align="center">
+          <a href="https://www.typescriptlang.org/">
+            <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="50" height="50" />
+          </a>
+          <br>TypeScript
+        </td>
+        <td align="center">
+          <a href="https://reactjs.org/">
+            <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="50" height="50" />
+          </a>
+          <br>React
+        </td>
+        <td align="center">
+          <a href="https://nextjs.org/">
+            <img src="https://skillicons.dev/icons?i=nextjs" width="50" height="50" alt="Next.js" />
+          </a>
+          <br>Next.js
+        </td>
+        <td align="center">
+          <a href="https://tailwindcss.com/">
+            <img src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg" width="50" height="50" alt="Tailwind CSS" />
+          </a>
+          <br>Tailwind CSS
+        </td>
+        <td align="center">
+          <a href="https://www.framer.com/motion/">
+            <img src="https://cdn.worldvectorlogo.com/logos/framer-motion.svg" width="50" height="50" alt="Framer Motion" />
+          </a>
+          <br>Framer Motion
+        </td>
+      </tr>
+    </tbody>
+  </table>
+
+  <table>
+    <thead>
+      <tr>
+        <th colspan="10" align="center">Backend / Tools</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td align="center">
+          <a href="https://nodejs.org/">
+            <img src="https://skillicons.dev/icons?i=nodejs" width="50" height="50" alt="Node.js" />
+          </a>
+          <br>Node.js
+        </td>
+        <td align="center">
+          <a href="https://expressjs.com/">
+            <img src="https://skillicons.dev/icons?i=express" width="50" height="50" alt="Express.js" />
+          </a>
+          <br>Express.js
+        </td>
+        <td align="center">
+          <a href="https://www.mongodb.com/">
+            <img src="https://skillicons.dev/icons?i=mongodb" width="50" height="50" alt="MongoDB" />
+          </a>
+          <br>MongoDB
+        </td>
+        <td align="center">
+          <a href="https://www.postgresql.org/">
+            <img src="https://skillicons.dev/icons?i=postgres" width="50" height="50" alt="PostgreSQL" />
+          </a>
+          <br>PostgreSQL
+        </td>
+        <td align="center">
+          <a href="https://www.docker.com/">
+            <img src="https://skillicons.dev/icons?i=docker" width="50" height="50" alt="Docker" />
+          </a>
+          <br>Docker
+        </td>
+        <td align="center">
+          <a href="https://git-scm.com/">
+            <img src="https://skillicons.dev/icons?i=git" width="50" height="50" alt="Git" />
+          </a>
+          <br>Git
+        </td>
+        <td align="center">
+          <a href="https://yarnpkg.com/">
+            <img src="https://skillicons.dev/icons?i=yarn" width="50" height="50" alt="Yarn" />
+          </a>
+          <br>Yarn
+        </td>
+        <td align="center">
+          <a href="https://www.npmjs.com/">
+            <img src="https://skillicons.dev/icons?i=npm" width="50" height="50" alt="NPM" />
+          </a>
+          <br>NPM
+        </td>
+        <td align="center">
+          <a href="https://pnpm.io/">
+            <img src="https://skillicons.dev/icons?i=pnpm" width="50" height="50" alt="PNPM" />
+          </a>
+          <br>PNPM
+        </td>
+        <td align="center">
+          <a href="https://bun.sh/">
+            <img src="https://skillicons.dev/icons?i=bun" width="50" height="50" alt="Bun" />
+          </a>
+          <br>Bun
+        </td>
+      </tr>
+    </tbody>
+  </table>
+
+  <table>
+    <thead>
+      <tr>
+        <th colspan="8" align="center">Others</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td align="center">
+          <a href="https://docs.microsoft.com/en-us/bash/">
+            <img src="https://skillicons.dev/icons?i=bash" width="50" height="50" alt="Bash" />
+          </a>
+          <br>Bash
+        </td>
+        <td align="center">
+          <a href="https://vercel.com/">
+            <img src="https://skillicons.dev/icons?i=vercel" width="50" height="50" alt="Vercel" />
+          </a>
+          <br>Vercel
+        </td>
+        <td align="center">
+          <a href="https://www.postman.com/">
+            <img src="https://skillicons.dev/icons?i=postman" width="50" height="50" alt="Postman" />
+          </a>
+          <br>Postman
+        </td>
+      </tr>
+    </tbody>
+  </table>
 </div>
+
+
 
 <!-- Rest of the tables follow the same pattern... -->
 
