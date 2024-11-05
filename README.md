@@ -13,37 +13,6 @@
 </p>
 
 <div align="center">
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://drive.google.com/file/d/1PZ4UFLGwSNGwpOttAeoNQtERYRHit1g2/view" target="_blank">
-        <img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=sireaddotcv&subtitle=Mihir+Aman+Raj&size=square" alt="Mihir" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.instagram.com/mihir_aman_raj" target="_blank">
-        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.instagram.com%2Fmihir_aman_raj%2F&subtitle=@mihir_aman_raj&size=square" alt="mihir_aman_raj" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.linkedin.com/in/mihir-aman-raj-349732233/" target="_blank">
-        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fmihir-aman-raj-349732233a%2F&subtitle=@Mihir+Aman+Raj&size=square" alt="Mihir Aman Raj" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://x.com/mihir__dev" target="_blank">
-        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fx.com%2Fmihir__dev&subtitle=@Mihir_Dev&size=square" alt="mihir__dev" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/Mihir2423" target="_blank">
-        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fgithub.com%2FMihir2423&subtitle=%2FMihir2423&size=square" alt="Mihir2423" />
-      </a>
-    </td>
-  </tr>
-</table>
 
 <br>
 
