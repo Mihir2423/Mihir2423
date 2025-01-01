@@ -265,25 +265,6 @@ Experienced Full Stack Developer with a strong command of the MERN stack (MongoD
 
 
 
-<!-- Rest of the tables follow the same pattern... -->
-
-<h2 align="center">📫 Let's Connect!</h2>
-
-<table align="center">
-  <tr>
-    <td colspan="3" align="center">
-      <a href="mailto:mihirraj444@gmail.com" target="_blank">
-        <img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=sigmail&subtitle=mihirraj444@gmail.com&size=square" alt="Mihir Aman Raj" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siwhatsapp&subtitle=India-6204807606&size=square" target="_blank">
-        <img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siwhatsapp&subtitle=India-6204807606&size=square" alt="India-+91-620-4807-606" />
-      </a>
-    </td>
-  </tr>
-</table>
-
 <br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%" alt="Footer" />
